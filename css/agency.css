@@ -506,9 +506,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 #carousel img {
-  width: 100%;
-  height: 50vh;
-  object-fit: cover;
+  height: 80vh;
+  object-fit: contain;
 }
 
 a.see-original-location-photo {
